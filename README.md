@@ -23,4 +23,3 @@ Visit Type Analysis - Breakdown by visit type and department
 | Average Patient Satisfaction | 3.0 / 5 |
 | Average Patient Age | 45.66 years |
 | Visits Covered by Insurance % | ~80% |
-| **Total** | **-** |
