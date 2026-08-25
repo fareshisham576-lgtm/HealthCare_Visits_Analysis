@@ -13,3 +13,14 @@ Visits Analysis - Detailed visit trends and patterns
 Insurance Analysis - Insurance coverage and provider analysis
 
 Visit Type Analysis - Breakdown by visit type and department
+
+## **📋 Dashboard KPIs**
+| KPI | Value |
+|---|---|
+| Total Patients | ~4,000 |
+| Average Stay Days | 1.5 days |
+| Insurance Cost Coverage % | 62.45% |
+| Average Patient Satisfaction | 3.0 / 5 |
+| Average Patient Age | 45.66 years |
+| Visits Covered by Insurance % | ~80% |
+| **Total** | **-** |
