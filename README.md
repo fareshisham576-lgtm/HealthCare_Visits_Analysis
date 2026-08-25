@@ -306,3 +306,14 @@ DAX - Time intelligence and complex calculations
 Data Modeling - Building relationships and star schema
 
 Interactive Visualizations - Drill-through and filtering capabilities
+
+## 🌟 Support & Feedback
+
+If you find this project helpful or useful for your analysis, please consider giving it a **Star** ⭐️ to show your support!
+
+[![GitHub stars](https://img.shields.io/github/stars/fareshisham576-lgtm/SuperMarket-Sales-Analysis?style=social)](https://github.com/fareshisham576-lgtm/SuperMarket-Sales-Analysis)
+
+### **Made By**
+## ***Fares Hesham Mohammed***
+### **LinkedIn Profile**
+[Fares Hisham](https://www.linkedin.com/in/fares-hisham-a862a1375?utm_source=share_via&utm_content=profile&utm_medium=member_android)
