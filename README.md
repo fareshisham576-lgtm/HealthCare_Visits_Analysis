@@ -311,7 +311,7 @@ Interactive Visualizations - Drill-through and filtering capabilities
 
 If you find this project helpful or useful for your analysis, please consider giving it a **Star** ⭐️ to show your support!
 
-[![GitHub stars](https://img.shields.io/github/stars/fareshisham576-lgtm/SuperMarket-Sales-Analysis?style=social)](https://github.com/fareshisham576-lgtm/SuperMarket-Sales-Analysis)
+[![GitHub stars](https://img.shields.io/github/stars/fareshisham576-lgtm/HealthCare_Visits_Analysis?style=social)](https://github.com/fareshisham576-lgtm/HealthCare_Visits_Analysis)
 
 ### **Made By**
 ## ***Fares Hesham Mohammed***
