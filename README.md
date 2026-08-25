@@ -5,16 +5,6 @@ This project analyzes 23,800+ healthcare visits collected over 3 years (2023–2
 
 The goal is to help healthcare administrators monitor hospital operations, evaluate patient experience, and identify trends that support data-driven decisions.
 
-## **📋 Dashboard KPIs**
-| KPI | Value |
-|---|---|
-| Total Patients | ~4,000 |
-| Average Stay Days | 1.5 days |
-| Insurance Cost Coverage % | 62.45% |
-| Average Patient Satisfaction | 3.0 / 5 |
-| Average Patient Age | 45.66 years |
-| Visits Covered by Insurance % | ~80% |
-
 ## **📁 Dataset Information**
 
 **File:** healthcare_visits.csv
@@ -44,6 +34,18 @@ The dataset contains approximately 23,800 patient visit records between January 
 | InsuranceCoveredAmount | Amount covered by insurance |
 | OutOfPocketCost | Amount paid by the patient |
 | SatisfactionScore | Patient satisfaction rating (1–5) |
+
+---
+
+### **📋 Dashboard KPIs**
+| KPI | Value |
+|---|---|
+| Total Patients | ~4,000 |
+| Average Stay Days | 1.5 days |
+| Insurance Cost Coverage % | 62.45% |
+| Average Patient Satisfaction | 3.0 / 5 |
+| Average Patient Age | 45.66 years |
+| Visits Covered by Insurance % | ~80% |
 
 ---
 
