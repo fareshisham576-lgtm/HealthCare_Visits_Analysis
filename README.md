@@ -37,6 +37,17 @@ The dataset contains approximately 23,800 patient visit records between January 
 
 ---
 
+### **📊 Dashboard Pages***
+
+| Page | Description | Screenshot |
+|---|---|---|
+| **Summary** | Overview of key metrics and KPIs | ![Summary](images/summary.png) |
+| **Visits Analysis** | Detailed visit trends and patterns | ![Visits Analysis](images/visits_analysis.png) |
+| **Insurance Analysis** | Insurance coverage and provider analysis | ![Insurance Analysis](images/insurance_analysis.png) |
+| **Visit Type Analysis** | Breakdown by visit type and department | ![Visit Type Analysis](images/visit_type_analysis.png) |
+
+---
+
 ### **📋 Dashboard KPIs**
 | KPI | Value |
 |---|---|
