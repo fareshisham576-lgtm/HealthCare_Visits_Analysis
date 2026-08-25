@@ -42,9 +42,9 @@ The dataset contains approximately 23,800 patient visit records between January 
 | Page | Description | Screenshot |
 |---|---|---|
 | **Summary** | Overview of key metrics and KPIs including Total Revenue, Total Visits, MOM Growth %, YOY Growth %, and SPLY | ![Summary](Figs/Screenshot%202026-07-26%20183120.png) |
-| **Visits Analysis** | Detailed visit trends and patterns including Visits by Month, Weekday vs Weekend distribution, and Department Visits by Year | ![Visits Analysis](images/visits_analysis.png) |
-| **Insurance Analysis** | Insurance coverage and provider analysis including Top Insurance Provider (Allianz), Insurance Covered vs Out-of-Pocket percentages, and Revenue by Department & VisitType | ![Insurance Analysis](images/insurance_analysis.png) |
-| **Visit Type Analysis** | Breakdown by visit type and department including Patient Volume by Age & Gender, Satisfaction Score Trends, Doctor Performance, and Average Length of Stay by Department | ![Visit Type Analysis](images/visit_type_analysis.png) |
+| **Visits Analysis** | Detailed visit trends and patterns including Visits by Month, Weekday vs Weekend distribution, and Department Visits by Year | ![Visits Analysis](Figs/Screenshot%202026-07-26%20183157.png) |
+| **Insurance Analysis** | Insurance coverage and provider analysis including Top Insurance Provider (Allianz), Insurance Covered vs Out-of-Pocket percentages, and Revenue by Department & VisitType | ![Insurance Analysis](Figs/Screenshot%202026-07-26%20183222.png) |
+| **Visit Type Analysis** | Breakdown by visit type and department including Patient Volume by Age & Gender, Satisfaction Score Trends, Doctor Performance, and Average Length of Stay by Department | ![Visit Type Analysis](Figs/Screenshot%202026-07-26%20183257.png) |
 ---
 
 ### **📋 Dashboard KPIs**
