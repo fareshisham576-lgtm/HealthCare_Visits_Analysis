@@ -5,15 +5,6 @@ This project analyzes 23,800+ healthcare visits collected over 3 years (2023–2
 
 The goal is to help healthcare administrators monitor hospital operations, evaluate patient experience, and identify trends that support data-driven decisions.
 
-## **📊 Dashboard Pages**
-Summary - Overview of key metrics and KPIs
-
-Visits Analysis - Detailed visit trends and patterns
-
-Insurance Analysis - Insurance coverage and provider analysis
-
-Visit Type Analysis - Breakdown by visit type and department
-
 ## **📋 Dashboard KPIs**
 | KPI | Value |
 |---|---|
@@ -254,3 +245,52 @@ The dataset contains approximately 23,800 patient visit records between January 
 | Doctor | Visit Count | Avg Satisfaction |
 |---|---|---|
 | Dr. Ahmed Fathy | 1.13K | 3.05 |
+
+## **🎯 Key Insights**
+### 👥 Patient Overview
+Nearly 4,000 unique patients visited the hospital during the analysis period
+
+The average patient age is 45.66 years
+
+Patient volume remains relatively stable across months
+
+### 🏥 Hospital Stay
+Average hospital stay is 1.5 days
+
+Cardiology has the longest average stay at 5.7 days
+
+Most visits are outpatient (66.21%)
+
+### 💰 Revenue & Insurance
+Total Revenue 2025: 35.11M (29.4% growth from 2023)
+
+Insurance covers 62.45% of treatment costs
+
+Allianz is the top insurance provider with 18.18M covered revenue
+
+80% of all visits covered by insurance
+
+### ⭐ Patient Satisfaction
+Average satisfaction score: 3.0 / 5
+
+General Surgery has highest satisfaction (3.06)
+
+Monthly satisfaction shows slight downward trend (3.02 → 2.80)
+
+### 📈 Trends
+Weekend visits account for 75.4% of total visits
+
+Revenue shows consistent growth year over year
+
+Department visits increasing annually (7.6K → 8.5K)
+
+### 🛠️ Tools Used
+Power BI Desktop - Dashboard creation and visualization
+
+Power Query - Data transformation and cleaning
+
+DAX - Time intelligence and complex calculations
+
+Data Modeling - Building relationships and star schema
+
+Interactive Visualizations - Drill-through and filtering capabilities
